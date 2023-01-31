@@ -1,47 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Form</title>
+	<script src="popup.js">
+
+	</script>
 </head>
 <body>
-	<script>function displayFormContents() {
+	<form>
+	<label for="firstname">Firstname:</label>
+	<input type="text" id="firstname" name="firstname">
+	
+	<br><br>
 
-		var out = '';
+	<label for="name">Name:</label>
+	<input type="text" id="name" name="name">
 	
-		out += 'Firstname = ' + document.getElementById('firstname').value + '\n';
-		out += 'Name = '      + document.getElementById('name').value      + '\n';
-		out += 'Phone = '     + document.getElementById('phone').value     + '\n';
-		out += 'Age = '       + document.getElementById('age').value       + '\n';
-		out += 'Email = '     + document.getElementById('email').value     + '\n';
+	<br><br>
+
+	<label for="phone">Phone:</label>
+	<input type="tel" id="phone" name="phone" pattern="[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{2}" placeholder="XX-XX-XX-XX-XX">
 	
-		out += 'Gender = ';
-		if (document.getElementById('gender_male').checked == true)
-			out += document.getElementById('gender_male').value;
-		if (document.getElementById('gender_female').checked == true)
-			out += document.getElementById('gender_female').value;
-		if (document.getElementById('gender_other').checked == true)
-			out += document.getElementById('gender_other').value;
-		out += '\n';
+	<br><br>
+
+	<label for="age">Age:</label>
+	<input type="number" id="age" name="age" min="0" max="114">
+
+	<br><br>
+
+	<label for="email">Email:</label>
+	<input type="email" id="email" name="email">
+
+	<br><br>
+
+	<label for="student">Student at 42?</label>
+	<input type="checkbox" name="student" id="student">
+
+	<br><br>
+
+	<div>
+
+		<label for="gender_male">Male</label><input type="radio" id="gender_male" name="sexo" value="gender_male">
+        <label for="gender_female">Female</label><input type="radio" id="gender_female" name="sexo" value="gender_female">
+        <label for="gender_other">Other</label><input type="radio" id="gender_other" name="sexo" value="gender_other">
+	</div>
 	
-		if (document.getElementById('student').checked == true)
-			out += 'Student at 42 = yes';
-		else
-			out += 'Student at 42 = no';
+	<br>
 	
-		alert(out);
-	
-	}</script>
-	<label>Firstname:</label>
-	<input type="text" id="firstname" name="firstname"><p>
-	<label>Name:</label>
-	<input type="text" id="name" name="name"><p>
-	<label>Phone:</label>
-	<input type="tel" id="phone" name="phone" pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}" placeholder="XX-XXXXX-XXXX"><p>
-	<label>Age:</label>
-	<input type="number" id="age" name="age" min="0"><p>
-	<label>Email:</label>
-	<input type="email" id="email" name="email"><p>
-	<label>Gender:</label>
-	
-	<button type="submit" onclick="displayFormContents()">SUBMIT</button>
+	<input type="submit" onclick="displayFormContents();" value="Run that sexy Javascript !">
+</form>
 </body>
 </html>

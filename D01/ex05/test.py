@@ -1,5 +1,3 @@
-"""    k.lower() == oqueeurecebi.lower() """
-
 import sys
 
 def all_in():
@@ -7,7 +5,14 @@ def all_in():
       str_full = str(sys.argv[1])
       l_str = str_full.split(",")
       for x in l_str:
-         print(x)
+         title_str = x.strip().title()
+         if len(title_str):
+            print("." + title_str + ".")
+
+
+se nao tiver nas listas
+   printar = l_str.strip() + "texto de saida"
+
 
 
 

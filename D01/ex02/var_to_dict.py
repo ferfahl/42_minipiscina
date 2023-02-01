@@ -1,5 +1,5 @@
 def var_to_dict():
-    d = dict([
+    d = [
     ('Hendrix' , '1942'),
     ('Allman' , '1946'),
     ('King' , '1925'),
@@ -20,10 +20,15 @@ def var_to_dict():
     ('Frusciante', '1970'),
     ('Thompson' , '1949'),
     ('Burton' , '1939')
-    ])
-    inv_d = {v: k for k, v in d.items()}
+    ]
+    inv_d = {}
+    for key, value in d:
+        inv_d.setdefault(value, []).append(key)
     for key, value in inv_d.items():
-        print(key, ":", value)
+        print(key, ":", end=" ")
+        for singer in value:
+            print(singer, end=" ")
+        print()
 
 
 if __name__ == '__main__':

@@ -1,0 +1,80 @@
+<h1>Curriculum Vitae</h1>
+<p style="color:purple;">{fullname}</p>
+fe.alves.fahl@gmail.com
+
+
+<h4>Career path</h4>
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Company</th>
+                    <th>City</th>
+                    <th>Year</th>
+                </tr>
+                <tr>
+                    <td>Junior Project Analist</td>
+                    <td>Luminae Energia</td>
+                    <td>São Paulo, SP</td>
+                    <td>2021-</td>
+                </tr>
+                <tr>
+                    <td>Architect</td>
+                    <td>First Interiores</td>
+                    <td>Campinas, SP</td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>Architecture aux</td>
+                    <td>Premium Essential Kitchen</td>
+                    <td>São Paulo, SP</td>
+                    <td style="border-color: #424242;">2019-2020</td>
+                </tr>
+            </table>
+
+
+<h4>Education</h4>
+            <table>
+                <tr>
+                    <th>Qualification</th>
+                    <th>Place</th>
+                    <th>City</th>
+                    <th>Year</th>
+                </tr>
+                <tr>
+                    <td>Software Engeneering</td>
+                    <td>42 São Paulo</td>
+                    <td>São Paulo, SP</td>
+                    <td>2024</td>
+                </tr>
+                <tr>
+                    <td>Architecture and Urbanism</td>
+                    <td>FAU - USP</td>
+                    <td>São Paulo, SP</td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>Enviroment Technical</td>
+                    <td>Colégo Pedro II</td>
+                    <td>Rio de Janeiro, RJ</td>
+                    <td style="border-color: #424242;">2010</td>
+                </tr>
+            </table>
+
+
+<h4>Computing skills</h4>
+ <ul>
+  <li>C</li>
+  <li>Python</li>
+  <li>Django</li>
+  <li>Java</li>
+</ul>
+
+
+<h4>Areas of interest</h4>
+ <ol>
+  <li>Cybersecurity</li>
+  <li>Backend Developer</li>
+  <li>Fullstack Developer</li>
+  <li>System analyst</li>
+</ol>
+

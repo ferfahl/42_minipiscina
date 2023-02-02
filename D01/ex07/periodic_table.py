@@ -21,13 +21,30 @@ def infos_chem(temp):
     info_list = [collumn, num, small, mol, ele]
     return(info_list)
 
+def write_html_element(element, value, file_html):
+    file_html.write('''
+        <td style="border: 1px solid black; padding:10px">
+        <h4>{}</h4> 
+        <ul>
+            <li>{}</li>
+            <li>{}</li>
+            <li>{}</li>
+            <li>{}</li>
+        <ul>
+        </td>
+        '''.format(element,
+                        value[1],
+                        value[2],
+                        value[3],
+                        value[4])) 
+
 def test():
-    file_html = open("demo.html", "w")
+    file_html = open("periodic_table.html", "w")
     file_txt = open("periodic_table.txt", "r")
     # Reading the txt
     text_chem = file_txt.read().split("\n")
     text_chem.remove('')
-    #creating dict
+    # Creating dict
     dict_chem = {}
     for line in text_chem:
         temp1 = line.split("=")
@@ -35,16 +52,44 @@ def test():
         list_info = infos_chem(temp1[1])
         element = temp_element.strip()
         dict_chem[element] = list_info
-    print(dict_chem)
     # Adding the input data to the HTML file
-    file_html.write('''<html>
-    <head>
-    <title>HTML File</title>
-    </head> 
+    file_html.write('''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Periodic Table</title>
+</head>
     <body>
-    <h1>Welcome Finxters</h1>           
-    <p>Example demonstrating How to generate HTML Files in Python</p> 
-    </body>
+    <h1>The Periodic Table of Elements!</h1>  
+    <table>
+    <tr>
+    ''')
+    collumn_place = 0
+    for element, value in dict_chem.items():
+        if collumn_place == 18:
+            collumn_place = 0
+            file_html.write('''</tr>
+            ''')
+        while collumn_place < 18:
+            temp_holder = int(value[0])
+            if collumn_place == temp_holder:
+                write_html_element(element, value, file_html)
+                # file_html.write('''<td>Element found! element:{} collumn{}</td>
+                # '''.format(value[0], collumn_place))
+                break
+            else:
+                # file_html.write('''<td>No element element:{} collumn{}</td>
+                # '''.format(value[0], collumn_place))
+                file_html.write('''<td></td>
+            ''')
+            collumn_place = collumn_place + 1
+        collumn_place = collumn_place + 1
+    file_html.write('''<tr>
+    ''')
+    file_html.write('''</tr>
+    </table></body>
     </html>''')
     # Saving the data into the HTML file
     file_html.close()

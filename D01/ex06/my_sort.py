@@ -27,7 +27,6 @@ def my_sort():
     list_music = musicians()
     order_alpha = dict(sorted(list_music.items(), key=lambda item: item[0]))
     order_number = dict(sorted(order_alpha.items(), key=lambda item: item[1]))
-
     for singer in order_number:
         print(singer)
 

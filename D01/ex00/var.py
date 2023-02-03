@@ -20,3 +20,4 @@ def my_var():
 
 if __name__ == '__main__':
     my_var()
+    

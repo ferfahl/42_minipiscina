@@ -2,7 +2,7 @@
 
 <br>
 
-<p><strong>{name} {surname}</strong></p>
+<p><strong>{fullname}</strong></p>
 <p><em>{email}</em></p>
 <p>{age} years</p>
 <p>{current_job}</p>

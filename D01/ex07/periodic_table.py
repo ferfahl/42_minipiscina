@@ -21,7 +21,7 @@ def infos_chem(temp):
     info_list = [collumn, num, small, mol, ele]
     return(info_list)
 
-def write_html_element(element, value, file_html):
+def write_html_key(key, value, file_html):
     file_html.write('''
         
         <td style="border: 1px solid black; padding:10px">
@@ -33,7 +33,7 @@ def write_html_element(element, value, file_html):
             <li>{}</li>
         </ul>
         </td>
-        '''.format(element,
+        '''.format(key,
                         value[1],
                         value[2],
                         value[3],
@@ -49,10 +49,10 @@ def periodic_table():
     dict_chem = {}
     for line in text_chem:
         temp1 = line.split("=")
-        temp_element = temp1[0]
+        temp_key = temp1[0]
         list_info = infos_chem(temp1[1])
-        element = temp_element.strip()
-        dict_chem[element] = list_info
+        key = temp_key.strip()
+        dict_chem[key] = list_info
     # Adding the input data to the HTML file
     file_html.write('''<!DOCTYPE html>
 <html lang="en">
@@ -63,12 +63,12 @@ def periodic_table():
     <title>Periodic Table</title>
 </head>
     <body>
-    <h1>The Periodic Table of Elements!</h1>  
+    <h1>The Periodic Table of keys!</h1>  
     <table>
     <tr>
     ''')
     collumn_place = 0
-    for element, value in dict_chem.items():
+    for key, value in dict_chem.items():
         if collumn_place == 18:
             collumn_place = 0
             file_html.write('''</tr>
@@ -78,12 +78,12 @@ def periodic_table():
         while collumn_place < 18:
             temp_holder = int(value[0])
             if collumn_place == temp_holder:
-                write_html_element(element, value, file_html)
-                # file_html.write('''<td>Element found! element:{} collumn{}</td>
+                write_html_key(key, value, file_html)
+                # file_html.write('''<td>key found! key:{} collumn{}</td>
                 # '''.format(value[0], collumn_place))
                 break
             else:
-                # file_html.write('''<td>No element element:{} collumn{}</td>
+                # file_html.write('''<td>No key key:{} collumn{}</td>
                 # '''.format(value[0], collumn_place))
                 file_html.write('''
                 <td></td>

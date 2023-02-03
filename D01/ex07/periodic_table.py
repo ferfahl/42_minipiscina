@@ -23,6 +23,7 @@ def infos_chem(temp):
 
 def write_html_element(element, value, file_html):
     file_html.write('''
+        
         <td style="border: 1px solid black; padding:10px">
         <h4>{}</h4> 
         <ul>
@@ -30,7 +31,7 @@ def write_html_element(element, value, file_html):
             <li>{}</li>
             <li>{}</li>
             <li>{}</li>
-        <ul>
+        </ul>
         </td>
         '''.format(element,
                         value[1],
@@ -38,7 +39,7 @@ def write_html_element(element, value, file_html):
                         value[3],
                         value[4])) 
 
-def test():
+def periodic_table():
     file_html = open("periodic_table.html", "w")
     file_txt = open("periodic_table.txt", "r")
     # Reading the txt
@@ -71,6 +72,8 @@ def test():
         if collumn_place == 18:
             collumn_place = 0
             file_html.write('''</tr>
+
+            <tr>
             ''')
         while collumn_place < 18:
             temp_holder = int(value[0])
@@ -82,17 +85,17 @@ def test():
             else:
                 # file_html.write('''<td>No element element:{} collumn{}</td>
                 # '''.format(value[0], collumn_place))
-                file_html.write('''<td></td>
+                file_html.write('''
+                <td></td>
             ''')
             collumn_place = collumn_place + 1
         collumn_place = collumn_place + 1
-    file_html.write('''<tr>
-    ''')
-    file_html.write('''</tr>
-    </table></body>
+    file_html.write('''
+    </table>
+    </body>
     </html>''')
     # Saving the data into the HTML file
     file_html.close()
 
 if __name__ == '__main__':
-    test()
+    periodic_table()

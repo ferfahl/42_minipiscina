@@ -39,13 +39,13 @@ def all_in():
         for x in l_str:
             title_str = x.strip()
             if len(title_str):
-                capital = capitols.get(title_str.title())
-                state = states.get(title_str.title())
+                state = capitols.get(title_str.title())
+                capital = states.get(title_str.title())
                 if capital:
-                    state = states.get(capital)
+                    state = capitols.get(capital)
                     print(capital, message, state)
                 elif state:
-                    capital = capitols.get(state)
+                    capital = states.get(state)
                     print(capital, message, state)
                 else:
                     print(title_str, error)

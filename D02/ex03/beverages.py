@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+ 
 class   HotBeverage:
     def __init__(self, name = "hot beverage", price = 0.30):
         self.price = price

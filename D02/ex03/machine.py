@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import random
 from beverages import *
 
@@ -12,7 +14,7 @@ class CoffeeMachine:
         def description(self):
             return "An empty cup?! Gimme my money back!"
 
-    def BrokenMachineException(Exception):
+    class BrokenMachineException(Exception):
         def __init__(self):
             super().__init__("This coffee machine has to be repaired.")
     

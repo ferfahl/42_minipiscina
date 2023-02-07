@@ -27,9 +27,9 @@ class CoffeeMachine:
             print("Machine broke... Calling repair")
             self.repair()
             return None
-        temp = random.randint(0, 3)
+        temp = random.randint(0, 1)
         self.counter += 1
-        if temp % 4 == 0:
+        if temp == 0:
             return self.EmptyCup()
         return beverage()
 # Parameters : A unique parameter (other than self) that will be a class derived
@@ -47,7 +47,7 @@ def coffe_place():
     machine = CoffeeMachine()
     beverage = [Coffee, Cappuccino, Chocolate, Tea, HotBeverage]
 
-    for index in range(22):
+    for index in range(25):
         print(f"Order No. {index} - What's your order today?")
         value = random.randint(0, 4)
         menu = machine.serve(beverage[value])

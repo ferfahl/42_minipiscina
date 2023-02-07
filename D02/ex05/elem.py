@@ -47,6 +47,7 @@ class Elem:
         result = ''
         if self.tag_type == 'double': #abre e fecha tags <h1></h1>
             result = f"<{self.tag}{self.__make_attr()}>{self.__make_content()}</{self.tag}>"
+            #  '<' + self.tag + self.__make_attr() + '>' + self.__make_content + '</' + self.tag + '>'
         elif self.tag_type == 'simple': #tag sem fechar <img=>
             result = f"<{self.tag}{self.__make_attr()} />"
         return result

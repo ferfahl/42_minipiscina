@@ -1,0 +1,423 @@
+{{Speciesbox
+| name = Dog
+| fossil_range =  Late Pleistocene to present<ref name=Thalmann2018/>
+| image = 
+{{perrow=total_width=align=image_style=border:none;
+| image1 = Blue merle koolie short coat heading sheep.jpg
+| image2 = Dog - നായ-6.JPG
+| image3 = Chin posing.jpg
+| image4 = Retriever in water.jpg
+| image5 = Black Labrador Retriever - Male IMG 3323.jpg
+| image6 = Sarabi-dog.jpg
+| image7 = Brooks Chase Ranger of Jolly Dogs Jack Russell.jpg
+| image8 = Huskiesatrest.jpg
+| image9 = Wilde huendin am stillen.jpg
+}}
+| status = DOM
+| genus = Canis
+| species = familiaris
+| authority = Linnaeus, 1758<ref name=linnaeus1758/>
+| synonyms_ref = <ref name=wozencraft2005/>
+| synonyms = {{bullets=
+|C. aegyptius 
+|C. alco 
+|C. americanus 
+|C. anglicus 
+|C. antarcticus 
+|C. aprinus 
+|C. aquaticus 
+|C. aquatilis 
+|C. avicularis 
+|C. borealis 
+|C. brevipilis 
+|C. cursorius 
+|C. domesticus 
+|C. extrarius 
+|C. ferus 
+|C. fricator 
+|C. fricatrix 
+|C. fuillus 
+|C. gallicus 
+|C. glaucus 
+|C. graius 
+|C. grajus 
+|C. hagenbecki 
+|C. haitensis 
+|C. hibernicus 
+|C. hirsutus 
+|C. hybridus 
+|C. islandicus 
+|C. italicus 
+|C. laniarius 
+|C. leoninus 
+|C. leporarius 
+|C. lupus familiaris 
+|C. major 
+|C. mastinus 
+|C. melitacus 
+|C. melitaeus 
+|C. minor 
+|C. molossus 
+|C. mustelinus 
+|C. obesus 
+|C. orientalis 
+|C. pacificus 
+|C. plancus 
+|C. pomeranus 
+|C. sagaces 
+|C. sanguinarius 
+|C. sagax 
+|C. scoticus 
+|C. sibiricus 
+|C. suillus 
+|C. terraenovae 
+|C. terrarius 
+|C. turcicus 
+|C. urcani 
+|C. variegatus 
+|C. venaticus 
+|C. vertegus 
+}}
+}}
+
+The dog (Canis familiaris<ref name=Alvares2019/></ref> 
+
+The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.<ref name="ADW" /> Dog breeds vary widely in shape, size, and color. They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting police and the military, companionship, therapy, and aiding disabled people. Over the millennia, dogs became uniquely adapted to human behavior, and the human-canine bond has been a topic of frequent study.<ref name="berns2012" /> This influence on human society has given them the sobriquet of "man's best friend".<ref name="Derr" />
+
+Taxonomy
+
+
+In 1758, the Swedish botanist and zoologist Carl Linnaeus published in his Systema Naturae, the two-word naming of species (binomial nomenclature). Canis is the Latin word meaning "dog", and under this genus, he listed the domestic dog, the wolf, and the golden jackal. He classified the domestic dog as Canis familiaris and, on the next page, classified the grey wolf as Canis lupus.<ref name=linnaeus1758/> Linnaeus considered the dog to be a separate species from the wolf because of its upturning tail (cauda recurvata), which is not found in any other canid.<ref name=Clutton-Brock1995/>
+
+In 1999, a study of mitochondrial DNA (mtDNA) indicated that the domestic dog may have originated from the grey wolf, with the dingo and New Guinea singing dog breeds having developed at a time when human communities were more isolated from each other.<ref name=wayne1999/> In the third edition of Mammal Species of the World published in 2005, the mammalogist W. Christopher Wozencraft listed under the wolf Canis lupus its wild subspecies and proposed two additional subspecies, which formed the domestic dog clade: familiaris, as named by Linnaeus in 1758 and, dingo named by Meyer in 1793. Wozencraft included hallstromi (the New Guinea singing dog) as another name (junior synonym) for the dingo. Wozencraft referred to the mtDNA study as one of the guides informing his decision.<ref name=wozencraft2005/> Mammalogists have noted the inclusion of familiaris and dingo together under the "domestic dog" clade<ref name=jackson2017/> with some debating it.<ref name=smithC1/>
+
+In 2019, a workshop hosted by the IUCN/Species Survival Commission's Canid Specialist Group considered the dingo and the New Guinea singing dog to be feral Canis familiaris and therefore did not assess them for the IUCN Red List of Threatened Species.<ref name=Alvares2019/>
+
+Evolution
+
+
+
+
+The Cretaceous–Paleogene extinction event occurred 66 million years ago and brought an end to the non-avian dinosaurs and the appearance of the first carnivorans.
+
+The carnivoran ancestors of the dog-like caniforms and the cat-like feliforms began their separate evolutionary paths just after the end of the dinosaurs. The first members of the dog family Canidae appeared 40 million years ago, the ancestors of modern domestic dogs, wolves, coyotes, and golden jackals.
+
+Domestication
+
+
+The earliest remains generally accepted to be those of a domesticated dog were discovered in Oberkassel,Bonn-Oberkassel, Germany. Contextual, isotopic, genetic, and morphological evidence shows that this dog was not a local wolf.<ref name=Perri2021/> The dog was dated to 14,223 years ago and was found buried along with a man and a woman, all three having been sprayed with red hematite powder and buried under large, thick basalt blocks. The dog had died of canine distemper.<ref name=janssens2018/> Earlier remains dating back to 30,000 years ago have been described as Paleolithic dogs, but their status as dogs or wolves remains debated<ref name=Irving-Pease2018/> because considerable morphological diversity existed among wolves during the Late Pleistocene.<ref name=Thalmann2018/>
+
+This timing indicates that the dog was the first species to be domesticated<ref name=larson2014/><ref name=freedman2017/> in the time of hunter–gatherers,<ref name=Frantz2020/> which predates agriculture.<ref name=Thalmann2018/> DNA sequences show that all ancient and modern dogs share a common ancestry and descended from an ancient, extinct wolf population which was distinct from the modern wolf lineage.<ref name=Bergström2020/><ref name=Frantz2020/> Most dogs form a sister group to the remains of a Late Pleistocene wolf found in the :de:Kessleroch cave near Thayngen in the canton of Schaffhausen, Switzerland, which dates to 14,500 years ago. The most recent common ancestor of both is estimated to be from 32,100 years ago.<ref name=thalmann2013/> This indicates that an extinct Late Pleistocene wolf may have been the ancestor of the dog,<ref name=freedman2017/><ref name=Thalmann2018/><ref name=Lord2020/> with the modern wolf being the dog's nearest living relative.<ref name=freedman2017/>
+
+The dog is a classic example of a domestic animal that likely travelled a commensal pathway into domestication.<ref name=Irving-Pease2018/><ref name=larson2012/> The questions of when and where dogs were first domesticated have taxed geneticists and archaeologists for decades.<ref name=larson2014/> Genetic studies suggest a domestication process commencing over 25,000 years ago, in one or several wolf populations in either Europe, the high Arctic, or eastern Asia.<ref name=Ostrander2019/> In 2021, a literature review of the current evidence  infers that the dog was domesticated in Siberia 23,000 years ago by ancient North Siberians, then later dispersed eastward into the Americas and westward across Eurasia.<ref name=Perri2021/>
+
+Breeds
+
+
+
+
+Dogs are the most variable mammal on earth with around 450 globally recognized dog breeds.<ref name=Ostrander2019/> In the Victorian era, directed human selection developed the modern dog breeds, which resulted in a vast range of phenotypes.<ref name=freedman2017/> Most breeds were derived from small numbers of founders within the last 200 years,<ref name=freedman2017/><ref name=Ostrander2019/> and since then dogs have undergone rapid phenotypic change and were formed into today's modern breeds due to artificial selection imposed by humans. The skull, body, and limb proportions vary significantly between breeds, with dogs displaying more phenotypic diversity than can be found within the entire order of carnivores. These breeds possess distinct traits related to morphology, which include body size, skull shape, tail phenotype, fur type and colour.<ref name=freedman2017/> Their behavioural traits include guarding, herding, and hunting,<ref name=freedman2017/> retrieving, and scent detection. Their personality traits include hypersocial behavior, boldness, and aggression,<ref name=Ostrander2019/> which demonstrates the functional and behavioral diversity of dogs.<ref name=freedman2017/> As a result, present day dogs are the most abundant carnivore species and are dispersed around the world.<ref name=Ostrander2019/> The most striking example of this dispersal is that of the numerous modern breeds of European lineage during the Victorian era.<ref name=Frantz2020/>
+
+
+Biology
+
+Anatomy
+
+
+Skeleton
+
+All healthy dogs, regardless of their size and type, have an identical skeletal structure with the exception of the number of bones in the tail, although there is significant skeletal variation between dogs of different types.
+
+Compared to the dog's wolf-like ancestors, selective breeding since domestication has seen the dog's skeleton greatly enhanced in size for larger types as mastiffs and miniaturised for smaller types such as terriers; dwarfism has been selectively utilised for some types where short legs are advantageous such as dachshunds and corgis.
+
+The dog's skull has identical components regardless of breed type, but there is significant divergence in terms of skull shape between types.
+
+Senses
+
+
+A dog's senses include vision, hearing, smell, taste, touch, and sensitivity to Earth's magnetic field. Another study has suggested that dogs can see Earth's magnetic field.<ref></ref>
+
+Coat
+
+
+
+The coats of domestic dogs are of two varieties: "double" being familiar with dogs (as well as wolves) originating from colder climates, made up of a coarse guard hair and a soft down hair, or "single", with the topcoat only. Breeds may have an occasional "blaze", stripe, or "star" of white fur on their chest or underside.</ref>
+
+Tail
+There are many different shapes for dog tails: straight, straight up, sickle, curled, or corkscrew. As with many canids, one of the primary functions of a dog's tail is to communicate their emotional state, which can be crucial in getting along with others. In some hunting dogs the tail is traditionally docked to avoid injuries.
+
+Health
+
+
+Some breeds of dogs are prone to specific genetic ailments such as elbow and hip dysplasia, blindness, deafness, pulmonic stenosis, cleft palate, and trick knees. Two severe medical conditions significantly affecting dogs are pyometra, affecting unspayed females of all breeds and ages, and Gastric dilatation volvulus (bloat), which affects larger breeds or deep-chested dogs. Both of these are acute conditions and can kill rapidly. Dogs are also susceptible to parasites such as fleas, ticks, mites, hookworms, tapeworms, roundworms, and heartworms, which is a roundworm species that lives in the hearts of dogs.
+
+Several human foods and household ingestible are toxic to dogs, including chocolate solids, causing theobromine poisoning, onions and garlic, causing thiosulphate, sulfoxide or disulfide poisoning, grapes and raisins, macadamia nuts, and xylitol.<ref>
+
+Dogs are also vulnerable to some of the same health conditions as humans, including diabetes, dental and heart disease, epilepsy, cancer, hypothyroidism, and arthritis.
+
+Lifespan
+
+
+The typical lifespan of dogs varies widely among breeds, but for most, the median longevity (the age at which half the dogs in a population have died and half are still alive) ranges from 10 to 13 years.<ref name="Denmark Survey"></ref> For dogs in England, increased body weight has been found to be negatively correlated with longevity (i.e., the heavier the dog, the shorter its lifespan), and mixed-breed dogs live on average 1.2 years longer than purebred dogs.<ref name=O'Neill2013/>
+
+Reproduction
+
+
+
+
+In domestic dogs, sexual maturity happens around six months to one year for both males and females, although this can be delayed until up to two years of age for some large breeds, and is the time at which female dogs will have their first estrous cycle. They will experience subsequent estrous cycles semiannually, during which the body prepares for pregnancy. At the peak of the cycle, females will become estrous, mentally and physically receptive to copulation. Because the ova survive and can be fertilized for a week after ovulation, more than one male can sire the same litter.<ref name="ADW"/>
+
+Fertilization typically occurs two to five days after ovulation; 14–16 days after ovulation, the embryo attaches to the uterus and after seven to eight more days, a heartbeat is detectable.<ref></ref>
+
+Dogs bear their litters roughly 58 to 68 days after fertilization,<ref name="ADW"/><ref></ref>
+
+Neutering
+Neutering is the sterilization of animals, usually by removing the male's testicles or the female's ovaries and uterus, to eliminate the ability to procreate and reduce sex drive. Because of dogs' overpopulation in some countries, many animal control agencies, such as the American Society for the Prevention of Cruelty to Animals (ASPCA), advise that dogs not intended for further breeding should be neutered, so that they do not have undesired puppies that may later be euthanized.<ref></ref>
+
+According to the Humane Society of the United States, three to four million dogs and cats are euthanized each year.<ref></ref>
+
+Neutering reduces problems caused by hypersexuality, especially in male dogs.<ref></ref>
+
+Inbreeding depression
+A common breeding practice for pet dogs is mating between close relatives (e.g., between half and full siblings).<ref name=Leroy></ref>
+
+In a study of seven dog breeds (the Bernese Mountain Dog, Basset Hound, Cairn Terrier, Brittany, German Shepherd Dog, Leonberger, and West Highland White Terrier), it was found that inbreeding decreases litter size and survival.<ref name="pmid25475165"></ref>
+
+Behavior
+
+
+
+Dog behavior is the internally coordinated responses (actions or inactions) of the domestic dog (individuals or groups) to internal and external stimuli.<ref name="levitis2009" /> As the oldest domesticated species, dogs' minds inevitably have been shaped by millennia of contact with humans. As a result of this physical and social evolution, dogs have acquired the ability to understand and communicate with humans more than any other species and they are uniquely attuned to human behaviors.<ref name="berns2012" /> Behavioral scientists have uncovered a surprising set of social-cognitive abilities in domestic dogs. These abilities are not possessed by the dog's closest canine relatives or other highly intelligent mammals, such as great apes, but rather parallel to children's social-cognitive skills.<ref name="tomasello2009" />
+
+Unlike other domestic species selected for production-related traits, dogs were initially selected for their behaviors.<ref>Serpell J, Duffy D. Dog Breeds and Their Behavior. In: Domestic Dog Cognition and Behavior. Berlin, Heidelberg: Springer; 2014</ref><ref name=cagan2016/> In 2016, a study found that only 11 fixed genes showed variation between wolves and dogs.<ref></ref>
+
+Intelligence
+
+
+Dog intelligence is the dog's ability to perceive information and retain it as knowledge for applying to solve problems. Studies of two dogs suggest that dogs can learn by inference and have advanced memory skills.  A study with Rico, a Border Collie, showed that he knew the labels of over 200 different items. He inferred the names of novel things by exclusion learning and correctly retrieved those new items immediately and four weeks after the initial exposure. A study of another Border Collie, Chaser, documented his learning and memory capabilities. He had learned the names and could associate by verbal command over 1,000 words.<ref></ref> Dogs can read and react appropriately to human body language such as gesturing and pointing and human voice commands.
+
+One study of canine cognitive abilities found that dogs' capabilities are no more exceptional than those of other animals, such as horses, chimpanzees, or cats.<ref name=Lea2018/> One limited study of 18 household dogs found that they lacked spatial memory, and were more focussed on the "what" of a task rather than the "where".<ref name=Sluka2018/>
+
+Dogs demonstrate a theory of mind by engaging in deception.<ref></ref>
+
+Communication
+
+{{Listen
+|filename=A dog making noises and barking.flac
+|title=Dog sounds
+|description=A dog making noises and barking
+|format=Ogg}}
+
+Dog communication is how dogs convey information to other dogs, understand messages from humans and translate the information that dogs are transmitting.<ref>Coren, Stanley How To Speak Dog: Mastering the Art of Dog-Human Communication, 2000 Simon & Schuster, New York.</ref> Communication behaviors of dogs include eye gaze, facial expression, vocalization, body posture (including movements of bodies and limbs), and gustatory communication (scents, pheromones, and taste). Humans communicate to dogs by using vocalization, hand signals, and body posture.
+
+
+Ecology
+Population
+The dog is probably the most widely abundant large carnivoran living in the human environment.<ref name=":0"></ref>
+In 2013, the estimated global dog population was between 700 million<ref></ref>
+
+Competitors and predators
+Although dogs are the most abundant and widely distributed terrestrial carnivores, feral and Free-free-ranging dogs' potential to compete with other large carnivores is limited by their strong association with humans.<ref name=":0" /> For example, a review of the studies in dogs' competitive effects on sympatric carnivores did not mention any research on competition between dogs and wolves.<ref name=lescureaux2014/><ref name=vanak2014/> Although wolves are known to kill dogs, they tend to live in pairs or in small packs in areas where they are highly persecuted, giving them a disadvantage facing large dog groups.<ref name=lescureaux2014/>
+
+Wolves kill dogs wherever they are found together.</ref> Although the numbers of dogs killed each year are relatively low, it induces a fear of wolves entering villages and farmyards to take dogs and losses of dogs to wolves have led to demands for more liberal wolf hunting regulations.<ref name=lescureaux2014/>
+
+Coyotes and big cats have also been known to attack dogs. In particular, leopards are known to have a preference for dogs and have been recorded to kill and consume them, no matter what their size.<ref name="Leopard"></ref>
+
+Diet
+
+
+
+Dogs have been described as omnivores.<ref name="ADW"/><ref>
+*</ref>
+
+Range
+As a domesticated or semi-domesticated animal, the dog is nearly universal among human societies. Notable exceptions once included:
+* The Aboriginal Tasmanians, who were separated from Australia before the arrival of dingos on that continent
+* The Andamanese peoples, who were isolated when rising sea levels covered the land bridge to Myanmar
+* The Fuegians, who instead domesticated the Fuegian dog, a different canid species
+* Individual Pacific islands whose maritime settlers did not bring dogs, or where dogs died out after original settlement, notably the Mariana Islands,<ref></ref>
+
+Dogs were introduced to Antarctica as sled dogs, but were later outlawed by international agreement due to the possible risk of spreading infections.<ref>[https://nettarkiv.npolar.no/sorpolen2011.npolar.no/en/did-you-know/2011-11-12-dogs-are-banned-from-antarctica.html "Did you know that dogs are banned from Antarctica?"], South Pole 1911-2011</ref>
+
+Roles with humans
+Domestic dogs inherited complex behaviors, such as bite inhibition, from their wolf ancestors, which would have been pack hunters with a complex body language. These sophisticated forms of social cognition and communication may account for their trainability, playfulness and ability to fit into human households and social situations. These attributes have given dogs a relationship with humans that has enabled them to become one of the most successful animals today.<ref name="Miklósi"></ref>
+
+The dogs' value to early human hunter-gatherers led to them quickly becoming ubiquitous across world cultures. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and the military, companionship and aiding disabled individuals. This influence on human society has given them the nickname "man's best friend" in the Western world. In some cultures, however, dogs are also a source of meat.<ref name="Wingfield-Hayes"/><ref name="Vietnam's dog meat tradition"/>
+
+Pets
+
+
+It is estimated that three-quarters of the world's dog population lives in the developing world as feral, village, or community dogs, with pet dogs uncommon.<ref>
+
+"The most widespread form of interspecies bonding occurs between humans and dogs"<ref name="Tacon"></ref>
+
+There have been two significant trends occurring within the second half of the 20th century in pet dogs' changing status. The first has been "commodification", shaping it to conform to social expectations of personality and behavior.<ref name="Power"/> The second has been the broadening of the family's concept and the home to include dogs-as-dogs within everyday routines and practices.<ref name="Power"/>
+
+A vast range of commodity forms aims to transform a pet dog into an ideal companion.<ref name="Nast"></ref>
+
+The majority of contemporary dog owners describe their pet as part of the family, although some ambivalence about the relationship is evident in the popular reconceptualization of the dog-human family as a pack.<ref name="Power"/> Some dog trainers, such as on the television program Dog Whisperer, have promoted a dominance model of dog-human relationships. However, it has been disputed that "trying to achieve status" is characteristic of dog-human interactions.<ref name="Bradshaw"></ref>
+
+Increasingly, human family-members engage in activities centered on the dog's perceived needs and interests, or in which the dog is an integral partner, such as dog dancing and dog yoga.<ref name="Nast"/>
+
+According to statistics published by the American Pet Products Manufacturers Association in the National Pet Owner Survey in 2009–2010, an estimated 77.5&nbsp;million people in the United States have pet dogs.<ref name=HSO></ref> The same source shows that nearly 40% of American households own at least one dog, of which 67% own just one dog, 25% two dogs and nearly 9% more than two dogs. There does not seem to be any gender preference among dogs as pets, as the statistical data reveal an equal number of male and female pet dogs. Although several programs promote pet adoption, less than one-fifth of the owned dogs come from shelters.<ref name=HSO />
+
+A study using magnetic resonance imaging (MRI) to compare humans and dogs showed that dogs have the same response to voices and use the same parts of the brain as humans do. This gives dogs the ability to recognize human emotional sounds, making them friendly social pets to humans.<ref name=Andics2014/>
+
+Workers
+Dogs have lived and worked with humans in many roles. In addition to dogs' role as companion animals, dogs have been bred for herding livestock (collies, sheepdogs),<ref></ref>
+
+Various kinds of service dogs and assistance dogs, including guide dogs, hearing dogs, mobility assistance dogs and psychiatric service dogs, assist individuals with disabilities.<ref></ref>
+
+Athletes and models
+
+
+People often enter their dogs in competitions, such as breed-conformation shows or sports, including racing, sledding and agility competitions. In conformation shows, also referred to as breed shows, a judge familiar with the specific dog breed evaluates individual purebred dogs for conformity with their established breed type as described in the breed standard. As the breed standard only deals with the dog's externally observable qualities (such as appearance, movement and temperament), separately tested qualities (such as ability or health) are not part of the judging in conformation shows.
+
+Food
+
+Dog meat is consumed in some East Asian countries, including Korea,<ref></ref>
+
+In Korea, the primary dog breed raised for meat, the Nureongi, differs from those breeds raised for pets that Koreans may keep in their homes.<ref name="pettid">Pettid, Michael J., Korean Cuisine: An Illustrated History, London: Reaktion Books Ltd., 2008, 25. </ref>
+
+The most popular Korean dog dish is called bosintang, a spicy stew meant to balance the body's heat during the summer months. Followers of the custom claim this is done to ensure good health by balancing one's gi, or the body's vital energy. A 19th-century version of bosintang explains that the dish is prepared by boiling dog meat with scallions and chili powder. Variations of the dish contain chicken and bamboo shoots. While the dishes are still prevalent in Korea with a segment of the population, dog is not as widely consumed as beef, pork and chicken.<ref name="pettid"/>
+
+Health risks
+
+
+In 2018, the WHO reported that 59,000 people died globally from rabies, with 59.6% in Asia and 36.4% in Africa. Rabies is a disease for which dogs are the most important vector.<ref></ref>
+
+In the U.S., cats and dogs are a factor in more than 86,000 falls each year.<ref></ref>
+
+Toxocara canis (dog roundworm) eggs in dog feces can cause toxocariasis. In the United States, about 10,000 cases of Toxocara infection are reported in humans each year, and almost 14% of the U.S. population is infected.<ref></ref>
+
+Health benefits
+
+
+Dogs suffer from the same common disorders as humans; these include cancer, diabetes, heart disease and neurologic disorders. Their pathology is similar to humans, as is their response to treatment and their outcomes. Researchers are identifying the genes associated with dog diseases similar to human disorders, but lack mouse models to find cures for both dogs and humans. The genes involved in canine obsessive-compulsive disorders led to the detection of four genes in humans' related pathways.<ref name=Ostrander2019/>
+
+The scientific evidence is mixed as to whether a dog's companionship can enhance human physical health and psychological well-being.<ref name="Pet ownership and human health: a brief review of evidence and issues"></ref>
+
+A 2005 paper states "recent research has failed to support earlier findings that pet ownership is associated with a reduced risk of cardiovascular disease, a reduced use of general practitioner services, or any psychological or physical benefits on health for community dwelling older people. Research has, however, pointed to significantly less absenteeism from school through sickness among children who live with pets."<ref name="Pet ownership and human health: a brief review of evidence and issues"/> In one study, new guardians reported a highly significant reduction in minor health problems during the first month following pet acquisition. This effect was sustained in those with dogs through to the end of the study.<ref name="autogenerated717"></ref>
+
+People with pet dogs took considerably more physical exercise than those with cats and those without pets. The results provide evidence that keeping pets may have positive effects on human health and behavior and that for guardians of dogs, these effects are relatively long-term.<ref name="autogenerated717"/> Pet guardianship has also been associated with increased coronary artery disease survival. Human guardians are significantly less likely to die within one year of an acute myocardial infarction than those who did not own dogs.<ref></ref>
+
+The health benefits of dogs can result from contact with dogs in general, not solely from having dogs as pets. For example, when in a pet dog's presence, people show reductions in cardiovascular, behavioral and psychological indicators of anxiety.<ref></ref>
+
+Using dogs and other animals as a part of therapy dates back to the late 18th century, when animals were introduced into mental institutions to help socialize patients with mental disorders.<ref>Kruger, K.A. & Serpell, J.A. (2006). Animal-assisted interventions in mental health: Definitions and theoretical foundations, In Fine, A.H. (ed.), Handbook on animal-assisted therapy: Theoretical foundations and guidelines for practice. San Diego, CA, Academic Press: 21–38. </ref>
+
+Cultural importance
+
+
+
+Dogs were depicted to symbolize guidance, protection, loyalty, fidelity, faithfulness, alertness, and love.<ref></ref> and her worshippers frequently dedicated small models of seated dogs to her.<ref name="BlackGreen1992"/> In the Neo-Neo-Assyrian and Neo-Babylonian periods, dogs were used as emblems of magical protection.<ref name="BlackGreen1992"/> In China, Korea and Japan, dogs are viewed as kind protectors.<ref name="Sherman2008"/>
+
+In mythology, dogs often serve as pets or as watchdogs.<ref name="Sherman2008"></ref> 
+
+In Christianity, dogs represent faithfulness.<ref name="Sherman2008" /> Within the Roman Catholic denomination specifically, the iconography of Saint Dominic includes a dog, after the saint's mother dreamt of a dog springing from her womb and becoming pregnant shortly after that.<ref name="CP2017"></ref>
+
+Terminology
+* Dog – the species (or subspecies) as a whole, also any male member of the same.
+* Bitch – any female member of the species (or subspecies).
+* Puppy or pup – a young member of the species (or subspecies) under 12 months old.<ref name=Alderton></ref>
+* Sire – the male parent of a litter.
+* Dam – the female parent of a litter.
+* Litter – all of the puppies resulting from a single whelping.
+* Whelping – the act of a bitch giving birth.
+* Whelps – puppies still dependent upon their dam.
+
+ See also 
+
+* Cat–dog relationship
+* Cynanthropy
+* Dognapping
+* Domesticated silver fox
+* Lists of dogs
+*List of individual dogs
+* Portal:Dogs portal
+* Portal:Mammals portal
+
+
+References
+{{refs
+
+<ref name=Alvares2019></ref>
+
+<ref name=Andics2014></ref>
+
+<ref name=Bergström2020></ref>
+
+<ref name=berns2012></ref>
+
+<ref name=Clutton-Brock1995></ref>
+
+<ref name=Frantz2020></ref>
+
+<ref name=freedman2017></ref>
+
+<ref name=Gompper2013></ref>
+
+<ref name=Irving-Pease2018></ref>
+
+<ref name=jackson2017></ref>
+
+<ref name=janssens2018></ref>
+
+<ref name=larson2012></ref>
+
+<ref name=larson2014></ref>
+
+<ref name=Lea2018></ref>
+
+<ref name=lescureaux2014></ref>
+
+<ref name=levitis2009></ref>
+
+<ref name=linnaeus1758></ref>
+
+<ref name=Lord2013></ref>
+
+<ref name=Lord2020></ref>
+
+<ref name=O'Neill2013></ref>
+
+<ref name=Ostrander2019></ref>
+
+<ref name=Perri2021></ref>
+
+<ref name=Sluka2018></ref>
+
+<ref name=smithC1> Chapter 1 – Bradley Smith</ref>
+
+<ref name=thalmann2013></ref>
+
+<ref name=Thalmann2018></ref>
+
+<ref name=tomasello2009></ref>
+
+<ref name=vanak2014>Vanak, A.T., Dickman, C.R., Silva-Rodriguez, E.A., Butler, J.R.A., Ritchie, E.G., 2014. Top-dogs and under-dogs: competition between dogs and sympatric carnivores. In: Gompper, M.E. (ed.), Free-Ranging Dogs and Wildlife Conservation. Oxford University Press, Oxford, pp. 69–93</ref>
+
+<ref name=wayne1999></ref>
+
+<ref name=wozencraft2005> [https://books.google.com/books?id=JgAMbNSt8ikC&pg=PA576 (via Google Books)]</ref>
+}}
+
+Bibliography
+* 
+* 
+* 
+* 
+* 
+*
+*
+*
+*
+
+External links
+
+* [https://www.biodiversitylibrary.org/name/Canis_lupus_familiaris Biodiversity Heritage Library bibliography] for Canis lupus familiaris
+* [http://www.fci.be/ Fédération Cynologique Internationale (FCI) – World Canine Organisation]
+* [https://www.worldhistory.org/article/184/dogs-in-the-ancient-world/ Dogs in the Ancient World], an article on the history of dogs
+* View the [http://www.ensembl.org/Canis_familiaris/Info/Index dog genome]  on Ensembl
+* [https://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam4&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr14%3A4739511%2D11213510&hgsid=1430153621_Itf5zwuMWjkMYyVclRNzVMNAp83j Genome of Canis lupus familiaris (version UU_Cfam_GSD_1.0/canFam4)], via UCSC Genome Browser
+* [https://www.ncbi.nlm.nih.gov/genome/85 Data of the genome of Canis lupus familiaris], via NCBI
+* [https://www.ncbi.nlm.nih.gov/assembly/GCF_011100685.1/ Data of the genome assembly of Canis lupus familiaris (version UU_Cfam_GSD_1.0/canFam4)], via NCBI

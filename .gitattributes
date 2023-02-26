@@ -1,0 +1,8 @@
+# Environments
+.env -linguist-vendored
+.venv -linguist-vendored
+env/ linguist-vendored
+venv/ linguist-vendored
+ENV/ linguist-vendored
+env.bak/ linguist-vendored
+venv.bak/ linguist-vendored
